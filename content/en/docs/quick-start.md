@@ -13,7 +13,7 @@ menu:
 weight: 999
 toc: true
 ---
-Before getting started, we need to build an install the [Ardillo extension](https://github.com/ardillo-php/ext#build-requirements) in the development/target environment. The, for each new Ardillo project, we need to install the Ardilo Loop package:
+Before getting started, we need to build an install the [Ardillo extension](https://github.com/ardillo-php/ext#build-requirements) in the development/target environment. Then, for each new Ardillo project, we need to install the Ardillo Loop package:
 
 ```sh
 composer require ardillo/loop
